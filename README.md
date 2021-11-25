@@ -16,5 +16,4 @@ The purpose of this analysis was to utilize Google Colab, Amazon Webservices, an
 
 ## Summary:
 
-The summary states whether or not there is bias, and the results support this statement (2 pt)
-An additional analysis is recommended to support the statement (2 pt)
+There was not bias in the paid reviews compared to the unpaid reviews. This can be displayed in the results, where the paid Vine reviews actually had a lower percentage of five star reviews compared to the unpaid non-Vine reviews. An additional analysis is recommended to support the statement (2 pt)
