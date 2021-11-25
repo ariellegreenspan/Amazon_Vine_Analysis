@@ -7,9 +7,12 @@ The purpose of this analysis was to utilize Google Colab, Amazon Webservices, an
 
 ## Results:
 
-* How many Vine reviews and non-Vine reviews were there?
-* How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-* What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+* There were 613 Vine reviews.
+* There were 64968 non-Vine reviews.
+* There were 222 Vine reviews that had 5 stars.
+* There were 30543 non-Vine reviews that had 5 stars.
+* The percentage of Vine reviews that were given 5 stars was 36.22%.
+* The percentage of non-Vine reviews that were 5 stars was 47.01%.
 
 ## Summary:
 
